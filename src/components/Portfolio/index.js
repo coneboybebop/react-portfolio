@@ -27,17 +27,7 @@ function Portfolio() {
             </Card.Body>
         </Card>
 
-        <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top"></Card.Img>
-            <Card.Body>
-            <Card.Title>Pitcher Perfect</Card.Title>
-            <Card.Text>
-            An app to help you find local breweries
-            </Card.Text>
-            <Card.Link href="#">App</Card.Link>
-            <Card.Link href="#">GitHub</Card.Link>
-            </Card.Body>
-            </Card>
+    
 
 
 
