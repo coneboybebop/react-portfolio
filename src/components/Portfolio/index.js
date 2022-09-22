@@ -2,6 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import PitcherCard from '../../assets/Card-images/pitcher-perfect-card.jpg';
 import LocalCard from '../../assets/Card-images/Living-local-card.jpg';
+import QuizardCard from '../../assets/Card-images/Quizard-card.png';
 
 function Portfolio() {
 
@@ -26,6 +27,18 @@ function Portfolio() {
             <Card.Link href="https://github.com/coneboybebop/project-2-group-6" target="_blank">GitHub</Card.Link>
             </Card.Body>
         </Card>
+
+        <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" src={QuizardCard}></Card.Img>
+            <Card.Body>
+            <Card.Title>Quizard</Card.Title>
+            <Card.Link href="https://ltb-quizard.herokuapp.com/" target="_blank">App</Card.Link>
+            <div> or </div>
+            <Card.Link href="https://github.com/NangTuong/Quizard" target="_blank">GitHub</Card.Link>
+            </Card.Body>
+        </Card>
+
+        
 
     
 
