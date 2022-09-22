@@ -2,7 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import PitcherCard from '../../assets/Card-images/pitcher-perfect-card.jpg';
 import LocalCard from '../../assets/Card-images/Living-local-card.jpg';
-import QuizardCard from '../../assets/Card-images/Quizard-card.png';
+import QuizardCard from '../../assets/Card-images/Quizard-Card.jpg';
 
 function Portfolio() {
 
